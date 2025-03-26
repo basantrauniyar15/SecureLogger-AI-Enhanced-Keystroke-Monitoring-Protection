@@ -1,0 +1,6 @@
+pynput
+numpy
+pandas
+scikit-learn
+joblib
+pycryptodome
